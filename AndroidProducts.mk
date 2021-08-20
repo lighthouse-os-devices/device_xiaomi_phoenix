@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/octavi_phoenix.mk
+    $(LOCAL_DIR)/lighthouse_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    octavi_phoenix-user \
-    octavi_phoenix-userdebug \
-    octavi_phoenix-eng
+    lighthouse_phoenix-user \
+    lighthouse_phoenix-userdebug \
+    lighthouse_phoenix-eng
 
