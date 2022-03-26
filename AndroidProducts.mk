@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_phoenix.mk
+    $(LOCAL_DIR)/lighthouse_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_phoenix-user \
-    spark_phoenix-userdebug \
-    spark_phoenix-eng
+    lighthouse_phoenix-user \
+    lighthouse_phoenix-userdebug \
+    lighthouse_phoenix-eng
